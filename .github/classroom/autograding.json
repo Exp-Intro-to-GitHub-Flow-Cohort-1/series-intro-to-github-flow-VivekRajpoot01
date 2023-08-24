@@ -10,6 +10,8 @@
       "timeout": 10,
       "points": 1
     },
+
+    
     {
       "name": "Step 2 Commit a File",
       "setup": "sleep 20",
